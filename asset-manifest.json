@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/erazmus-front-page/static/css/main.019a8848.css",
-    "main.js": "/erazmus-front-page/static/js/main.8993c8b1.js",
+    "main.js": "/erazmus-front-page/static/js/main.c4b39177.js",
     "static/media/globe.svg": "/erazmus-front-page/static/media/globe.d713dcc90ba62fb724691fc59f4098a6.svg",
     "static/media/trophy.svg": "/erazmus-front-page/static/media/trophy.95091886291d9c2bd7846ef3f42975f6.svg",
     "static/media/erasmus.webp": "/erazmus-front-page/static/media/erasmus.bdef8186ddc09777793a.webp",
@@ -11,10 +11,10 @@
     "static/media/sweep.svg": "/erazmus-front-page/static/media/sweep.caa3f581ff984d2af1d8b4f0c2367d2c.svg",
     "static/media/arrowBack.svg": "/erazmus-front-page/static/media/arrowBack.f52491a61ed02347c69a5f47437171ef.svg",
     "main.019a8848.css.map": "/erazmus-front-page/static/css/main.019a8848.css.map",
-    "main.8993c8b1.js.map": "/erazmus-front-page/static/js/main.8993c8b1.js.map"
+    "main.c4b39177.js.map": "/erazmus-front-page/static/js/main.c4b39177.js.map"
   },
   "entrypoints": [
     "static/css/main.019a8848.css",
-    "static/js/main.8993c8b1.js"
+    "static/js/main.c4b39177.js"
   ]
 }
